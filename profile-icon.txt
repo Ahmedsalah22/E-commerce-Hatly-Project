@@ -1,0 +1,8 @@
+<a href="#" style="color: #999" class="dropdown-toggle lin hom" data-toggle="dropdown" aria-expanded="false"><i class="zmdi zmdi-account material-icons-name" style="font-size: 25px"></i></a>
+				  
+					   <ul class="sel dropdown-menu">
+					  
+					     <a href="#"><li class="ui"><i class="zmdi zmdi-account material-icons-name" style="font-size: 25px; margin-left: 10px"></i>
+							 <span style="margin-left: 14px; margin-right: 10px">YOUR ACCOUNT</span></li></a>
+					
+				      </ul>

@@ -1,0 +1,1012 @@
+<div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(1).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(1).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(2).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(2).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(3).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(3).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(4).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(4).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(5).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(5).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(6).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(6).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(7).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(7).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(8).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(8).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(9).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(9).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(10).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(10).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(11).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(11).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(12).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(12).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(13).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(13).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(14).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(14).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(15).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(15).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(16).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(16).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(17).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(17).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(18).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(18).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(19).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(19).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(20).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(20).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(21).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(21).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(22).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(22).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(23).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(23).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(24).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(24).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(25).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(25).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(26).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(26).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(27).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(27).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(28).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(28).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(29).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(29).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(30).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(30).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(31).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(31).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(32).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(32).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(33).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(33).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(34).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(34).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(35).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(35).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(36).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(36).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(37).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(37).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(38).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(38).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(39).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(39).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(40).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(40).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			             <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(41).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(41).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(42).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(42).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(43).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(43).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Accessories1/handbag/h%20(44).jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Accessories1/handbag/h%20(44).jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html">Air Tshirt Black </a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$119.99</span>
+										<del>$120.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
