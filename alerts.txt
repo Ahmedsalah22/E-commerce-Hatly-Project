@@ -1,0 +1,15 @@
+<div class="col-sm-6 col-md-6 col-lg-6 mb-60">
+            <h4 class="text-blue title-border mb-30 bars">Alert Boxes</h4>
+            <div class="alert alert-success alert-dismissable">
+              <button aria-hidden="true" data-dismiss="alert" class="close" type="button"> × </button>
+              Success! Well done its submitted. </div>
+            <div class="alert alert-info alert-dismissable">
+              <button aria-hidden="true" data-dismiss="alert" class="close" type="button"> × </button>
+              Info! take this info. </div>
+            <div class="alert alert-warning alert-dismissable">
+              <button aria-hidden="true" data-dismiss="alert" class="close" type="button"> × </button>
+              Warning ! Dont submit this. </div>
+            <div class="alert alert-danger alert-dismissable">
+                <button aria-hidden="true" data-dismiss="alert" class="close" type="button"> × </button>
+                Error ! Change few things. </div>
+          </div>
