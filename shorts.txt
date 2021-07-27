@@ -1,0 +1,2070 @@
+<div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s1.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s1.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s2.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s2.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s3.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s3.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s4.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s4.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s5.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s5.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s6.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s6.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s7.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s7.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s8.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s8.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s9.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s9.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			           <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s10.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s10.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s11.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s11.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s12.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s12.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s13.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s13.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s14.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s14.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s15.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s15.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s16.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s16.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s17.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s17.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s18.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s18.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s19.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s19.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s20.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s20.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s21.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s21.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s22.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s22.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s23.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s23.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s24.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s24.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s25.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s25.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s26.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s26.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s29.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s29.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s30.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s30.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s31.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s31.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s32.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s32.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s33.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s33.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s34.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s34.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s35.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s35.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s36.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s36.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s37.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s37.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s38.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s38.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s39.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s39.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s40.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s40.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s41.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s41.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s42.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s42.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s43.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s43.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s44.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s44.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s45.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s45.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s46.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s46.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s47.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s47.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s48.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s48.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s49.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s49.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s50.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s50.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s51.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s51.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s52.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s52.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s53.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s53.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s54.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s54.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s55.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s55.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s56.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s56.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s57.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s57.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s58.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s58.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s59.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s59.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s60.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s60.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s61.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s61.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s63.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s63.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s65.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s65.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s67.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s67.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s69.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s69.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s71.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s71.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s73.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s73.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s75.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s75.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s77.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s77.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s79.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s79.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s81.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s81.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s83.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s83.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s85.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s85.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s87.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s87.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s89.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s89.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s91.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s91.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s93.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s93.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s95.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s95.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s96.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s96.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s97.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s97.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s98.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s98.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s99.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s99.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s100.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s100.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s101.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s101.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s102.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s102.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s103.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s103.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s104.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s104.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s105.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s105.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s106.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s106.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s83.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s83.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s89.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s89.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
+			            <div class="col-md-3 product-men yes-marg">
+							<div class="men-pro-item simpleCart_shelfItem">
+								<div class="men-thumb-item">
+									<img src="images/clothes/Men/shorts/s90.jpg" height="291px" alt="" class="pro-image-front">
+									<img src="images/clothes/Men/shorts/s90.jpg" height="291px" alt="" class="pro-image-back">
+										<div class="men-cart-pro">
+											<div class="inner-men-cart-pro">
+												<a href="single.html" class="link-product-add-cart">Quick View</a>
+											</div>
+										</div>
+										<span class="product-new-top">New</span>
+										
+								</div>
+								<div class="item-info-product ">
+									<h4><a href="single.html"> Shirts</a></h4>
+									<div class="info-product-price">
+										<span class="item_price">$45.99</span>
+										<del>$69.71</del>
+									</div>
+									<a href="#" class="item_add single-item hvr-outline-out button2">Add to cart</a>									
+								</div>
+							</div>
+						</div>
